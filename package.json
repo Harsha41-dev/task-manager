@@ -1,0 +1,12 @@
+{
+  "name": "task-manager",
+  "version": "1.0.0",
+  "description": "A CLI task manager using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {},
+  "author": "",
+  "license": "ISC"
+}
